@@ -65,7 +65,7 @@ body {
   .contact-us {
     position: absolute;
     top: 250px;
-    left: 1%;
+    left: 10px;
     z-index: 1;
     text-align: center;
     width: 500px;
